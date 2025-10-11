@@ -1,37 +1,37 @@
 #import "uc3mreport.typ": conf
 
 #show: conf.with(
-  degree: "Grado en...",
-  subject: "Asignatura",
+  degree: "Grado en ingeniería informática",
+  subject: "Estructura de Computadores",
   year: (24, 25),
-  project: "Práctica 0",
+  project: "Práctica 1",
   title: "La mejor memoria de la historia",
-  group: 89,
+  group: 84,
   authors: (
     (
-      name: "Luis Daniel",
-      surname: "Casais Mezquida",
-      nia: 100429021
+      name: "Lucas",
+      surname: "Sotomayor Barrios",
+      nia: 100538813
     ),
     (
-      name: "Pepe",
-      surname: "Navarro",
+      name: "Mario",
+      surname: "Torrente",
       nia: 100429022
     ),
   ),
   professor: "Perico de los Palotes",
   toc: true,
   logo: "old",
-  language: "en"
+  language: "es"
 )
 
 
 
-= Introduction
+= Introducción
 #lorem(90)
 
 
-== Motivation
+== Motivación
 #lorem(140)
 
 == Problem Statement
